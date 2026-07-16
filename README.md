@@ -1,6 +1,6 @@
 # AgriSentiment
 
-AgriSentiment adalah aplikasi analisis sentimen komentar YouTube bertema pertanian yang dirancang untuk membantu peneliti, akademisi, dan pelaku sektor pertanian memahami persepsi publik secara lebih cepat, visual, dan terukur.
+AgriSentiment adalah aplikasi analisis sentimen komentar YouTube bertema pertanian yang dirancang untuk membantu pelaku sektor pertanian memahami persepsi publik secara lebih cepat, visual, dan terukur.
 
 Melalui aplikasi ini, komentar YouTube tidak hanya diklasifikasikan menjadi sentimen positif, netral, dan negatif, tetapi juga dipetakan berdasarkan topik pertanian seperti pemupukan, irigasi, hidroponik, budidaya organik, pengendalian hama, dan isu pertanian lainnya. Hasil analisis kemudian disajikan dalam bentuk dashboard interaktif, visualisasi kata, ringkasan statistik, serta evaluasi performa model machine learning.
 
@@ -12,13 +12,12 @@ AgriSentiment hadir untuk menjawab kebutuhan tersebut dengan mengubah komentar y
 
 ## Fitur Utama
 
-- Dashboard interaktif untuk melihat ringkasan sentimen, distribusi data, metadata video, dan tren pembahasan.
+- Dashboard interaktif untuk melihat ringkasan sentimen, distribusi data, dan metadata video.
 - Sentiment Analysis untuk mengeksplorasi hasil sentimen berdasarkan video, topik, dan kategori pertanian.
 - Realtime Analysis untuk menganalisis komentar YouTube secara langsung menggunakan URL atau ID video.
 - Model Evaluation untuk membandingkan performa Naive Bayes, Support Vector Machine, dan LSTM.
 - Word cloud dan frekuensi kata untuk menemukan kata kunci dominan pada setiap topik atau video.
 - Contoh komentar representatif untuk membantu interpretasi hasil sentimen secara lebih manusiawi.
-- Integrasi PostgreSQL agar data penelitian dapat dikelola lebih rapi dan terpusat.
 
 ## Fokus Penelitian
 
@@ -31,7 +30,6 @@ Topik yang dianalisis mencakup:
 - Hidroponik
 - Budidaya organik
 - Pengendalian hama
-- Produk organik
 - Feedback penonton
 - Kategori turunan lain yang berkaitan dengan isu pertanian
 
@@ -147,4 +145,4 @@ Politeknik Elektronika Negeri Surabaya
 
 ## Tujuan Akhir
 
-AgriSentiment diharapkan dapat menjadi media analisis yang membantu pembaca memahami bagaimana masyarakat merespons isu pertanian di ruang digital. Dengan pendekatan machine learning dan visualisasi interaktif, penelitian ini memperlihatkan bahwa opini publik dapat diolah menjadi insight yang bernilai bagi pengembangan pertanian modern.
+AgriSentiment diharapkan dapat menjadi media analisis yang membantu pembaca memahami bagaimana masyarakat merespons persepsi  pertanian di ruang digital. Dengan pendekatan machine learning dan visualisasi interaktif, penelitian ini memperlihatkan bahwa opini publik dapat diolah menjadi insight yang bernilai bagi pengembangan pertanian modern.
